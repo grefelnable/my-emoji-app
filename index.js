@@ -1,5 +1,5 @@
 // global variables
-const myEmojis = ['👨🏻‍💻', '🏃🏻‍♂️', '🍔']
+const myEmojis = ['👨🏻‍💻', '🏃🏻‍♂️', '🕺🏻']
 const emojiContainer = document.getElementById('emoji-container')
 const pushBtn = document.getElementById('push-btn')
 const unshiftBtn = document.getElementById('unshift-btn')
